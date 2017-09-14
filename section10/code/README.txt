@@ -1,0 +1,2 @@
+All javascript code examples and websites for this week’s section are derived from previous CS50 sections, specifically those of Allison Buchholz-Au from 2014. 
+Full recordings of these sections are available on YouTube: https://www.youtube.com/watch?v=WCpKDSmiodM
