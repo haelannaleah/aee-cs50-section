@@ -1,0 +1,14 @@
+/* body color */
+body {
+    background-color: lightblue;
+}
+
+/* IDs */
+#pretty_color {
+    color: purple;
+}
+
+/* class */
+.pretty_font {
+    font-family: "Brush Script MT", cursive;
+}
